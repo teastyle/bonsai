@@ -1,0 +1,54 @@
+.head-nav{
+    margin: 0 20%;
+
+}
+.navbar-nav{
+    margin: 20px 0;
+
+}
+.navbar-nav li{
+    margin-right: 30px;
+    padding: 16px 12px 16px 0px;
+   
+}
+.head-nav li a{
+    justify-content: space-between;
+    color: #4c4d5f;
+    font-size: 17px;
+    font-weight: 400
+}
+.navbar-brand{
+    margin: 0 50px 0 0;
+}
+.navbar-brand img{
+    vertical-align: middle;
+    display: inline-block;
+}
+.nav-btn-1{
+    margin-left: 17px;
+    margin-right: 17px;
+}
+.nav-btn-1:hover{
+    background-color: #00b289;
+    color: #fff;
+}
+
+.nav-btn-2{
+    color: #fff;
+    background-color: #00b289;
+}
+.nav-btn-2:hover{
+    background-color: #00a37e;
+}
+
+
+.btn-outline-success{
+    font-size: 13px;
+    line-height: 16px;
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: .6px;
+    text-transform: uppercase;
+    padding: 12px 22px 9px;
+    
+}
